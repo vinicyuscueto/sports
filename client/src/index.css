@@ -1,0 +1,172 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  --main-color: #2563eb;
+  --secondary-color: #0f286d;
+  --color-background: #add8e6;
+  --color-1: #555;
+  --color-2: #ccc;
+  --color-3: #fff;
+  --color-4: #242424;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-1);
+}
+
+p {
+  color: var(--color-1);
+}
+
+h2 {
+  text-align: center;
+  margin: 40px;
+  position: relative;
+  line-height: 60px;
+  color: var(--color-1);
+}
+
+h2::after {
+  content: "";
+  background: var(--main-color);
+  width: 100px;
+  height: 5px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+h3 {
+  color: var(--color-3);
+  text-align: center;
+  font-size: 15px;
+  line-height: 30px;
+  font-weight: normal;
+}
+
+h4 {
+  color: var(--color-4);
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+span {
+  color: var(--main-color);
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.container,
+.small-container {
+  margin: auto;
+  padding: 0 20px;
+}
+
+.container {
+  max-width: 1300px;
+}
+
+.small-container {
+  max-width: 1080px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.button {
+  background: var(--main-color);
+  color: var(--color-3);
+  padding: 10px 20px;
+  border-radius: 30px;
+  transition: background 0.3s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: var(--secondary-color);
+}
+
+.button-label {
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: var(--color-1);
+  font-weight: bold;
+}
+
+.button-label:hover {
+  color: var(--main-color);
+  transition: 0.3s ease;
+}
+
+.button-minus,
+.button-plus {
+  background: none;
+  border: none;
+  color: var(--main-color);
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.message {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  height: 40px;
+  margin: 10px 0;
+  padding: 0 10px;
+  border: 1px solid var(--color-2);
+  border-radius: 5px;
+}
+
+input:focus,
+.button:focus,
+.quantity:focus {
+  outline: none;
+}
+
+input:focus {
+  border-color: var(--main-color);
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+@media (max-width: 650px) {
+  .row {
+    text-align: center;
+  }
+}

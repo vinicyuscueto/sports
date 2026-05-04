@@ -1,0 +1,35 @@
+.product-detail {
+  padding: 25px 0;
+}
+
+.product-detail .col {
+  padding: 10px;
+  flex: 1;
+}
+
+.product-detail .col img {
+  width: 85%;
+  border-radius: 10px;
+}
+
+.product-detail .col h4 {
+  padding-top: 20px;
+}
+
+.product-detail .col span {
+  font-size: 20px;
+}
+
+@media (max-width: 1000px) {
+  .product-detail .col img {
+    width: 100%;
+  }
+  .product-detail .row {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .product-detail .col .actions {
+    justify-content: center;
+  }
+}

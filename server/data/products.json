@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "name": "Camiseta Básica Cor Preto",
+    "description": "A camiseta básica foi desenvolvida para oferecer conforto, leveza e versatilidade no dia a dia. Produzida com tecido macio e respirável, proporciona excelente ajuste ao corpo e liberdade de movimento. Ideal para uso casual ou atividades leves, combina praticidade com um design moderno e funcional.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 90,
+    "hot": true
+  },
+  {
+    "id": "2",
+    "name": "Kit de Jogos Ping Pong",
+    "description": "O kit de ping pong é perfeito para momentos de lazer e diversão com amigos e família. Composto por itens de qualidade, oferece ótima performance e durabilidade durante as partidas. Ideal para jogadores iniciantes e intermediários que buscam praticidade e entretenimento em qualquer ambiente.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 100,
+    "hot": false
+  },
+  {
+    "id": "3",
+    "name": "Bermuda Esporte Cor Preto",
+    "description": "A bermuda esportiva foi projetada para proporcionar conforto e desempenho durante atividades físicas. Seu tecido leve e respirável auxilia na ventilação e controle da umidade. Com ajuste confortável, é ideal para treinos, caminhadas e uso diário com liberdade de movimento.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 50,
+    "hot": true
+  },
+  {
+    "id": "4",
+    "name": "Boné Unissex Cor Branco",
+    "description": "O boné unissex oferece proteção solar e estilo para o dia a dia. Fabricado com material leve e resistente, proporciona conforto durante o uso prolongado. Seu design moderno e ajustável o torna ideal para atividades ao ar livre e composições casuais.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 40,
+    "hot": false
+  },
+  {
+    "id": "5",
+    "name": "Óculos Esporte Cor Verde",
+    "description": "Os óculos esportivos foram desenvolvidos para garantir proteção e conforto durante atividades ao ar livre. Com lentes que oferecem proteção UV e armação leve, proporcionam ajuste seguro ao rosto. Ideais para esportes, corridas e uso diário com estilo e segurança.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 60,
+    "hot": true
+  },
+  {
+    "id": "6",
+    "name": "Camiseta Regata Cor Azul",
+    "description": "A camiseta regata é ideal para quem busca conforto e ventilação durante treinos intensos. Produzida com tecido leve e respirável, permite maior liberdade de movimento. Perfeita para academia, esportes ou dias quentes, unindo praticidade e estilo.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 40,
+    "hot": false
+  },
+  {
+    "id": "7",
+    "name": "Kit de Halteres Cor Preto",
+    "description": "O kit de halteres é ideal para treinos de força e resistência em casa ou na academia. Fabricado com materiais duráveis, oferece segurança e eficiência nos exercícios. Indicado para diferentes níveis de treino, proporcionando versatilidade e evolução muscular.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 500,
+    "hot": true
+  },
+  {
+    "id": "8",
+    "name": "Luva de Goleiro Cor Preto",
+    "description": "A luva de goleiro foi desenvolvida para oferecer máxima aderência e proteção durante as partidas. Com material resistente e confortável, garante firmeza nas defesas. Ideal para treinos e jogos, proporcionando segurança e desempenho em campo.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 80,
+    "hot": false
+  },
+  {
+    "id": "9",
+    "name": "Skate Modelo Street",
+    "description": "O skate modelo street é perfeito para manobras e uso urbano. Construído com materiais resistentes, oferece estabilidade e durabilidade. Ideal para iniciantes e praticantes experientes que buscam desempenho e estilo nas pistas e ruas.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 140,
+    "hot": true
+  },
+  {
+    "id": "10",
+    "name": "Tênis Urban Skate",
+    "description": "O tênis urban skate combina conforto, resistência e estilo para o dia a dia. Seu solado reforçado garante maior durabilidade e aderência. Ideal para prática de skate ou uso casual, proporcionando segurança e conforto prolongado.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 300,
+    "hot": false
+  },
+  {
+    "id": "11",
+    "name": "Corda de Pular Profissional",
+    "description": "A corda de pular profissional é ideal para treinos cardiovasculares e melhoria do condicionamento físico. Leve e resistente, possui pegadores ergonômicos que garantem conforto. Perfeita para exercícios em casa, academia ou ao ar livre.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 35,
+    "hot": true
+  },
+  {
+    "id": "12",
+    "name": "Garrafa Térmica Esportiva",
+    "description": "A garrafa térmica esportiva mantém suas bebidas na temperatura ideal por mais tempo. Fabricada com material resistente e seguro, é prática para o uso diário. Ideal para academia, trabalho ou atividades ao ar livre.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 70,
+    "hot": false
+  },
+  {
+    "id": "13",
+    "name": "Bola de Futebol Profissional",
+    "description": "A bola de futebol profissional oferece excelente desempenho em jogos e treinos. Possui alta durabilidade, controle preciso e ótima resistência. Indicada para diferentes tipos de campo, garantindo qualidade e performance.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 90,
+    "hot": false
+  },
+  {
+    "id": "14",
+    "name": "Meia Esportiva Cano Alto",
+    "description": "A meia esportiva cano alto proporciona conforto e proteção durante atividades físicas. Produzida com tecido respirável, ajuda a manter os pés secos. Ideal para treinos, corridas e uso diário com ajuste firme e confortável.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 25,
+    "hot": true
+  },
+  {
+    "id": "15",
+    "name": "Mochila Esportiva",
+    "description": "A mochila esportiva é ideal para transportar seus itens com praticidade e segurança. Possui compartimentos amplos e material resistente à água. Perfeita para academia, viagens curtas e uso cotidiano com organização eficiente.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 150,
+    "hot": false
+  },
+  {
+    "id": "16",
+    "name": "Relógio Esportivo Digital",
+    "description": "O relógio esportivo digital auxilia no monitoramento de atividades físicas com praticidade. Conta com funções úteis como cronômetro e resistência à água. Ideal para uso diário, combinando tecnologia, conforto e design moderno.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 200,
+    "hot": true
+  },
+  {
+    "id": "17",
+    "name": "Faixa Elástica de Resistência",
+    "description": "A faixa elástica de resistência é perfeita para exercícios de fortalecimento e alongamento. Leve e portátil, pode ser usada em qualquer lugar. Ideal para treinos funcionais, reabilitação e aumento da resistência muscular.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 30,
+    "hot": false
+  },
+  {
+    "id": "18",
+    "name": "Protetor de Joelho Esportivo",
+    "description": "O protetor de joelho esportivo oferece suporte e estabilidade durante atividades físicas. Fabricado com material confortável e resistente, ajuda na prevenção de lesões. Ideal para esportes de impacto e treinos intensos.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 45,
+    "hot": true
+  },
+  {
+    "id": "19",
+    "name": "Bola de Basquete Oficial",
+    "description": "A bola de basquete oficial proporciona excelente controle e aderência durante o jogo. Fabricada com materiais duráveis, é indicada para quadras internas e externas. Ideal para atletas que buscam desempenho e qualidade.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 110,
+    "hot": false
+  },
+  {
+    "id": "20",
+    "name": "Squeeze Esportivo",
+    "description": "O squeeze esportivo é prático e ideal para manter a hidratação durante atividades físicas. Leve e resistente, possui design ergonômico. Perfeito para academia, corridas e uso diário com facilidade de transporte.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 20,
+    "hot": true
+  },
+  {
+    "id": "21",
+    "name": "Shorts Running Masculino",
+    "description": "O shorts running masculino foi desenvolvido para oferecer leveza e conforto durante corridas. Seu tecido respirável auxilia na ventilação e mobilidade. Ideal para treinos e atividades ao ar livre com máximo desempenho.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 55,
+    "hot": false
+  },
+  {
+    "id": "22",
+    "name": "Jaqueta Corta Vento",
+    "description": "A jaqueta corta vento protege contra vento e mudanças climáticas durante atividades externas. Leve e confortável, permite mobilidade total. Ideal para esportes e uso casual em dias frios ou com vento.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 180,
+    "hot": true
+  },
+  {
+    "id": "23",
+    "name": "Chuteira Campo Profissional",
+    "description": "A chuteira campo profissional oferece tração e estabilidade em gramados naturais. Com design ergonômico e confortável, melhora o desempenho em campo. Ideal para jogadores que buscam precisão e controle.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 250,
+    "hot": false
+  },
+  {
+    "id": "24",
+    "name": "Bolsa Academia Fitness",
+    "description": "A bolsa academia fitness é espaçosa e resistente para transportar seus itens com organização. Possui compartimentos funcionais e alças reforçadas. Ideal para academia, viagens curtas e rotina diária.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 130,
+    "hot": true
+  },
+  {
+    "id": "25",
+    "name": "Tapete Yoga Antiderrapante",
+    "description": "O tapete de yoga antiderrapante proporciona conforto e estabilidade durante exercícios e alongamentos. Fabricado com material resistente e fácil de limpar, garante segurança na prática. Ideal para yoga, pilates e treinos em casa.",
+    "image": "https://placehold.co/500?text=Sem+Foto&font=roboto",
+    "price": 95,
+    "hot": false
+  }
+]
