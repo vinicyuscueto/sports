@@ -24,7 +24,7 @@ const Auth = ({ isSignup }) => {
     }
 
     alert(isSignin ? "Acesso realizado." : "Cadastro realizado.");
-    if (isSignin) navigate("/");
+    isSignin ? navigate("/") : setIsSignin(!isSignin);
   };
 
   return (

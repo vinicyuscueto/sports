@@ -97,18 +97,28 @@ cd server
 
 #### Construção do arquivo .env:
 ```bash
-cp .env.example .env
+copy .env.example .env
 ```
 
-#### Configuração das variáveis de ambiente (.env):
+#### Configuração das variáveis de ambiente:
 ```bash
-DATABASE_URL="mongodb+srv://<username>:<password>@<cluster>.mongodb.net/<database>?appName=<name>"
+DATABASE_URL="mongodb+srv://<username>:<password>@<cluster>.mongodb.net/sports?appName=sports"
 JWT_SECRET=<key>
 ```
 
 #### Instalação de dependências:
 ```bash
 npm install
+```
+
+#### Preparação do Prisma ORM:
+```bash
+npx prisma generate
+```
+
+#### Aplicação do schema no banco de dados:
+```bash
+npx prisma db push
 ```
 
 #### Execução do projeto:
@@ -126,16 +136,6 @@ cd client
 #### Instalação de dependências:
 ```bash
 npm install
-```
-
-#### Inicialização do Prisma:
-```bash
-npx prisma generate
-```
-
-#### Construção do schema no banco de dados:
-```bash
-npx prisma db push
 ```
 
 #### Execução do projeto:
